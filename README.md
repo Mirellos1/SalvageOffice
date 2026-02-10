@@ -1,24 +1,29 @@
-# Salvage Office Mod dla Starsector 0.98a
+Salvage Office Mod for Starsector 0.98a
 
-Ten mod dodaje nowy budynek (Industry) o nazwie **Salvage Office**, który automatyzuje proces odzyskiwania wraków w systemie gwiezdnym Twojej kolonii.
+This mod adds a new building (Industry) called the Salvage Office, which automates the process of reclaiming wrecks within your colony's star system.
 
-## Funkcje
-- **Automatyczne Skanowanie:** Co 3 dni budynek skanuje system w poszukiwaniu wraków (derelicts), pól szczątków (debris fields) i pobitewnych pozostałości.
-- **Odzyskiwanie Kadłubów:** Odzyskane statki trafiają do magazynu kolonii (Storage) jako kadłuby z uszkodzeniami (D-hulls).
-- **Inteligentne Filtrowanie:** Mod ignoruje obiekty ważne dla misji oraz statki niegrywalne (np. stacje kosmiczne).
+Features
+Automatic Scanning & Collection: Every 3 days, the building scans the system for derelicts, debris fields, and post-battle remains. It automatically collects Fuel and Supplies found during the process.
 
-## Wymagania w grze
-W planach ...
-Aby wybudować Salvage Office, kolonia musi posiadać:
-1. **Heavy Industry** (lub Orbital Works)
-2. **Patrol HQ** (lub Military Base/High Command)
+Hull Recovery: Recovered ships are added to the colony's storage as D-hulls.
 
-Budynek zużywa **Supplies** oraz **Fuel**.
+Smart Filtering: The mod ignores mission-critical objects and non-playable ships (e.g., space stations).
 
-## Instalacja
-1. Skopiuj folder `SalvageOfficeMod` do katalogu `mods` w folderze gry Starsector.
-2. Aktywuj mod w launcherze gry.
+Future Plans: Extending the system to collect more types of resources.
 
-## Autor
-Miroslaw Marshalek (Marshall)
-v0.1.0
+In-Game Requirements (Planned)
+To build the Salvage Office, the colony must have:
+
+Heavy Industry (or Orbital Works)
+
+Patrol HQ (or Military Base/High Command)
+
+The building consumes Supplies and Fuel for operation.
+
+Installation
+Copy the SalvageOfficeMod folder into the mods directory within your Starsector game folder.
+
+Activate the mod in the game launcher.
+
+Author
+Miroslaw Marshalek (Marshall) v0.1.3
