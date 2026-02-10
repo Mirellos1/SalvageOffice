@@ -1,0 +1,10 @@
+{
+    "id": "SalvageOfficeMod",
+    "name": "Salvage Office",
+    "author": "Marshall Mir",
+    "version": "0.0.1",
+    "description": "Adds the Salvage Office industry, which sends out salvage fleets to recover derelict ships and wreckage in the system.",
+    "gameVersion": "0.98a-RC8",
+    "modDependencies": [],
+    "jars": ["jars/SalvageOffice.jar"]
+}
