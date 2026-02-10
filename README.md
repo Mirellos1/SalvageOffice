@@ -8,6 +8,7 @@ This mod adds a new building (Industry) called the **Salvage Office**, which aut
 * **Hull Recovery:** Recovered ships are added to the colony's storage as D-hulls.
 * **Smart Filtering:** The mod ignores mission-critical objects and non-playable ships (e.g., space stations).
 * **Future Plans:** Extending the system to collect more types of resources.
+* * The building consumes **Supplies** and **Fuel** for operation.
 
 ## In-Game Requirements (Planned)
 
@@ -15,7 +16,6 @@ To build the Salvage Office, the colony must have:
 
 * **Heavy Industry** (or Orbital Works)
 * **Patrol HQ** (or Military Base/High Command)
-* The building consumes **Supplies** and **Fuel** for operation.
 
 ## Installation
 
