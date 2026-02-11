@@ -25,4 +25,4 @@ To build the Salvage Office, the colony must have:
 
 ## Author
 
-Miroslaw Marshalek (Marshall) v0.1.0
+Miroslaw Marshalek (Marshall)
